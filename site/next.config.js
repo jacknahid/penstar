@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Penstar',
+    description: 'Penstar Workspace Registry for KASM Tech.',
+    icon: '/https://www.penstarz.com/wp-content/uploads/2023/05/logo.png',
+    listUrl: 'https://jacknahid.github.io/penstar/',
+    contactUrl: 'https://github.com/jacknahid/penstar/issues/',
   },
   reactStrictMode: true,
   swcMinify: true,
