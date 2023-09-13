@@ -19,8 +19,8 @@
   ],
   "friendly_name": "Chromium",
   "architecture": [
-    "amd64",
-    "arm64"
+    "amrm64",
+    "amd64"
   ],
   "compatibility": [
     "1.13.x",
